@@ -19,7 +19,7 @@ class CardGame:
       return card1
     else:
       return card2
-  
+
 
 
   def cards_total(self, cards):
